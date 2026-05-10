@@ -97,7 +97,7 @@ java RideSharingApp
 
 ## 📁 GitHub Repository
 
-**Repository URL:** https://github.com/your-username/ride-sharing-system
+**Repository URL:** https://github.com/sidra56/Ridehandling_System.git
 
 - Upload all `.java` files
 - Include this README.md in root directory
